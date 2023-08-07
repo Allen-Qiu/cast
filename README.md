@@ -2,7 +2,7 @@
 **C**lustering **AS**pect **T**erms in the reviews.
 
 ## Dataset
-The datasets used in our paper may be found in Google Driver.        
+The datasets used in our paper are avaliable in Google Driver.        
 https://drive.google.com/drive/folders/1lYZi3KNMIzLv50uu_pAUeYh6sDZLzjZk?usp=sharing
 
 ## Demo
