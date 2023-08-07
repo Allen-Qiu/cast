@@ -1,5 +1,5 @@
 # CAST
-Clustering aspect terms from the reviews.
+Clustering aspect terms in the reviews.
 
 ## Dataset
 The processed datasets are presented in Google Driver.        
