@@ -1,2 +1,2 @@
-# cast
-clustering aspect terms from the reviews
+# CAST
+Clustering aspect terms from the reviews
