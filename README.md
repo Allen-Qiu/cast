@@ -13,9 +13,9 @@ https://colab.research.google.com/drive/1USla1Y7Aq1rj85rEqMkflDxKNrha2Mts?usp=sh
 https://colab.research.google.com/drive/1inyDvKz6cNc56SVutXEBe7p78XZ6N14q?usp=sharing
 
 3. Presenting the clusters of aspect terms extracted from the **YELP** dataset.
-https://colab.research.google.com/drive/10KK_CTrki9Tt6UZXnDaS_cZfq2LGPZgd?usp=sharing
+https://colab.research.google.com/drive/13eSKL1IlnoghYTW88rVdsCUW3QJoniJQ?usp=sharing
 
-4. Presenting the clusters of aspect terms extracted from the **WECR** dataset.
+5. Presenting the clusters of aspect terms extracted from the **WECR** dataset.
 https://colab.research.google.com/drive/10KK_CTrki9Tt6UZXnDaS_cZfq2LGPZgd?usp=sharing
 
 ## Source codes
