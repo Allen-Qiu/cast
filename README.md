@@ -26,7 +26,7 @@ we will share the all codes after the paper is accepted.
 The clusters of aspect terms detected by baseline models are illustrated as follows.
 
 ### GMM
-<img src="img/gmm.png" width="150">
+<img src="img/gmm.png" width="400">
 
 ### LDA
 ![alt text](img/LDA.png)
