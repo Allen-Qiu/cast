@@ -38,6 +38,6 @@ The clusters of aspect terms detected by baseline models are illustrated as foll
 <img src="img/lcc.png" width="700">
 
 ### SSCL
-<img src="img/sscl.png" width="700">
+<img src="img/sscl.png" width="600">
 
 
