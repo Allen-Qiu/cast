@@ -20,3 +20,24 @@ https://colab.research.google.com/drive/10KK_CTrki9Tt6UZXnDaS_cZfq2LGPZgd?usp=sh
 
 ## Source codes
 we will share the all codes after the paper is accepted.
+
+## Clusters
+
+The clusters of aspect terms detected by baseline models are illustrated as follows.
+
+### GMM
+![alt text](img/gmm.png)
+
+### LDA
+![alt text](img/LDA.png)
+
+### ABAE
+![alt text](img/abae.png)
+
+### LCC+GBC
+![alt text](img/lcc.png)
+
+### SSCL
+![alt text](img/sscl.png)
+
+
