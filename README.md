@@ -29,15 +29,15 @@ The clusters of aspect terms detected by baseline models are illustrated as foll
 <img src="img/gmm.png" width="700">
 
 ### LDA
-![alt text](img/LDA.png)
+<img src="img/LDA.png" width="700">
 
 ### ABAE
-![alt text](img/abae.png)
+<img src="img/abae.png" width="700">
 
 ### LCC+GBC
-![alt text](img/lcc.png)
+<img src="img/lcc.png" width="700">
 
 ### SSCL
-![alt text](img/sscl.png)
+<img src="img/sscl.png" width="700">
 
 
