@@ -38,6 +38,6 @@ The clusters of aspect terms detected by baseline models in the Amazon dataset a
 <img src="img/lcc.png" width="700">
 
 ### SSCL
-<img src="img/sscl.png" width="600">
+<img src="img/sscl.png" width="700">
 
 
